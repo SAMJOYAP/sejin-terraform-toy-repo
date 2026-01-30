@@ -24,7 +24,6 @@
 
 ## 🛠️ Scripts
 
-- `run-all-modules.sh`: 전체 모듈을 순서대로 `init/apply` 실행
 - `run-all-modules-plan-apply.sh`: 전체 모듈을 순서대로 `init/plan/apply` 실행
 - `run-network-plan-apply.sh`: 네트워크 모듈 `init/plan/apply` 실행
 - `run-cluster-plan-apply.sh`: 클러스터 모듈 `init/plan/apply` 실행
