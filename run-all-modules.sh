@@ -7,6 +7,7 @@ run() {
   local dir="$1"
   echo "==> ${dir}"
   terraform -chdir="${dir}" init
+  terraform -chdir="${dir}" plan
   terraform -chdir="${dir}" apply
 }
 
