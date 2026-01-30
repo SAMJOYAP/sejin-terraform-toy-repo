@@ -30,3 +30,7 @@
 - `run-addons-plan-apply.sh`: 애드온 모듈 `init/plan/apply` 실행
 - `run-observability-plan-apply.sh`: 관측성 모듈 `init/plan/apply` 실행
 - `run-apps-plan-apply.sh`: 앱 모듈 `init/plan/apply` 실행
+
+## 📚 문서 레포지토리
+
+- https://github.com/SAMJOYAP/sejin-doc-repo/tree/main/2.%20aws-eks-toy
